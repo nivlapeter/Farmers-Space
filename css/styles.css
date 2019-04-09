@@ -1,7 +1,7 @@
 .h1{
   border-radius: 300px;
-  color: blue;
-  background-color: gold;
+  color: #56a0d3;
+  background-color: #37332d;
   text-align: center;
   width: 900px;
 }
@@ -9,4 +9,19 @@
   text-align: center;
   font-size: 60px;
   font-family: sans-serif;
+}
+.den1 {
+  font-size: 30px;
+}
+footer {
+    background-color: black;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    left: 0;
+    bottom: 0;
+    border-top: 4px solid white;
+}
+body{
+  background-color: #8397ac;
 }
