@@ -31,11 +31,24 @@ body {
   background-color: #8397ac;
   margin: auto;
 }
-h1{
+
+h1 {
   font-size: 32px;
   font-style: 'AmstelvarAlpha';
   font: 3rem 'AmstelvarAlpha', sans-serif;
 }
-.col-md-3{
+
+.col-md-3 {
   margin: auto;
+}
+
+.well {
+  /* background-color: rgb(22, 105, 173); */
+}
+
+.den2 {
+  font-size: 32px;
+  font-family: monospace;
+  font-weight: bolder;
+  color: #007300;
 }
