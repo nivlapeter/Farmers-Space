@@ -1,0 +1,9 @@
+body {
+  background-color: lightgray;
+  font-style: normal;
+  font-size: 15px;
+}
+.class {
+  font-size: 50px;
+  color: blue;
+}
