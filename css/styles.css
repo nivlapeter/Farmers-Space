@@ -14,6 +14,7 @@
 
 .den1 {
   font-size: 30px;
+  overflow: scroll;
 }
 
 footer {
@@ -28,4 +29,13 @@ footer {
 
 body {
   background-color: #8397ac;
+  margin: auto;
+}
+h1{
+  font-size: 32px;
+  font-style: 'AmstelvarAlpha';
+  font: 3rem 'AmstelvarAlpha', sans-serif;
+}
+.col-md-3{
+  margin: auto;
 }
