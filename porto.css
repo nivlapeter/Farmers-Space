@@ -1,5 +1,5 @@
 body {
-    background-color: greenyellow;
+    background-image: url(./so.jpeg);
     font-size: larger;
 }
 
@@ -9,11 +9,11 @@ h1 {
     float: center;
     margin: 50px;
     padding: 20px;
-    width: 300px;
+    width:600px;
     border-radius: 50px;
     margin-left: 500px;
     font-style: italic;
-    height: 150px;
+    height: 100px;
 
 }
 
