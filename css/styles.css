@@ -52,3 +52,11 @@ h1 {
   font-weight: bolder;
   color: #007300;
 }
+.panel-title{
+  text-align: center;
+  font-size: 32px;
+  font-family: monospace;
+  font-weight: bolder;
+  color: #007300;
+
+}
