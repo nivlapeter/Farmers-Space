@@ -7,3 +7,18 @@ body {
   font-size: 50px;
   color: blue;
 }
+h6 {
+  font-size: 32px;
+  font-family: monospace;
+  color: #a52a2a;
+}
+p{
+   font-style: sans-serif;
+   font-size: 26px;
+}
+li{
+  font-size: 20px;
+}
+h1{
+  font-family: monospace;
+}

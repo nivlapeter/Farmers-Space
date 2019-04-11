@@ -14,7 +14,7 @@
 
 .den1 {
   font-size: 30px;
-  overflow: scroll;
+  /* overflow: scroll; */
 }
 
 footer {
@@ -61,3 +61,7 @@ h1 {
   color: #007300;
 
 }
+/* .container {
+  max-height: 150px;
+  overflow: scroll;
+} */
