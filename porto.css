@@ -64,3 +64,32 @@ a.active,
     color: chartreuse;
     border-radius: 50px;
 }
+p{
+    font-size: x-large;
+}
+#df{
+    float: right;
+}
+h2{
+    text-decoration: underline;
+    font-style: inherit;
+    color: green;
+    text-align: center;
+}
+.D , .C , .B , .A{
+    margin: initial;
+    /* background: rgb(107, 60, 216); */
+     width:100%;
+     /* -webkit-box-shadow: -1px 1px 71px 15px rgba(4, 91, 97, 1);
+     -moz-box-shadow: -1px 1px 71px 15px rgba(4, 91, 97, 1);
+     box-shadow: -1px 1px 71px 15px rgba(4, 91, 97, 1); */
+
+     border-radius: 50px;
+     /* /* -moz-border-radius: 12px 12px 12px 12px; */
+     -webkit-border-radius: 12px 12px 12px 12px;
+     border: 0px solid #000000;
+     background-color: lightgray;
+     border-bottom: 10px;
+     margin-right: 10px;
+
+}
