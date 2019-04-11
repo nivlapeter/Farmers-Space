@@ -65,3 +65,7 @@ h1 {
   max-height: 150px;
 overflow: scroll;
 } */
+.panel-footer{
+  /* border-radius: 20px; */
+  padding-top: 20px;
+}
