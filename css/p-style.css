@@ -49,7 +49,7 @@ h1 {
   max-height: 400px;
   overflow: scroll;
 }
-@media screen and (min-width: 480px) {
+/* @media screen and (min-width: 480px) {
     body {
         background-color: black;
         color: lightgreen;
@@ -59,4 +59,4 @@ h1 {
   body {
     background-color: grey;
   }
-}
+} */
