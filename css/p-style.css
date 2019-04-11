@@ -3,22 +3,39 @@ body {
   font-style: normal;
   font-size: 15px;
 }
+
 .class {
   font-size: 50px;
   color: blue;
 }
+
 h6 {
   font-size: 32px;
   font-family: monospace;
   color: #a52a2a;
 }
-p{
-   font-style: sans-serif;
-   font-size: 26px;
+
+p {
+  font-style: sans-serif;
+  font-size: 26px;
 }
-li{
+
+li {
   font-size: 20px;
 }
-h1{
+
+h1 {
   font-family: monospace;
+}
+
+.col-md-3 {
+  margin: 0px;
+}
+
+.well {
+  /* margin: 0px; */
+}
+
+.container p {
+  font-size: 17px;
 }
