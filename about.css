@@ -1,5 +1,5 @@
 body{
-    background-image: url(./fr.jpeg);
+    background-image: url(./so.jpeg);
 }
 h1{
     background: grey;
@@ -28,7 +28,7 @@ h1{
     font-size: x-large;
 }
 a.active, .nav a:hover{
-    background-color:white;
+    background-color:greenyellow;
     color:black;
     width: 40%;
     border-radius: 50px;
@@ -57,14 +57,14 @@ a.active, .nav a:hover{
 }
 h2{
     padding: 80px;
-    background: chartreuse;
+    background: black;
     border-radius: 50px;
     width:500px;
 
 }
 h3{
 padding: 80px;
-background: blue;
+background: gray;
 border-radius: 50px;
 width:500px;
 }

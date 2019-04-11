@@ -1,5 +1,8 @@
 body {
     background-image: url(./so.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
     font-size: larger;
 }
 
@@ -34,7 +37,7 @@ h1 {
 
 a.active,
 .nav a:hover {
-    background-color: white;
+    background-color: greenyellow;
     color: black;
     width: 150px;
     border-radius: 50px;
