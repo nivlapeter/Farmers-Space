@@ -17,7 +17,7 @@ h6 {
 
 p {
   font-style: sans-serif;
-  font-size: 26px;
+  font-size: 19px;
 }
 
 li {
@@ -38,4 +38,14 @@ h1 {
 
 .container p {
   font-size: 17px;
+}
+
+.beef {
+  max-height: 400px;
+  overflow: scroll;
+}
+
+.Chicken {
+  max-height: 400px;
+  overflow: scroll;
 }
