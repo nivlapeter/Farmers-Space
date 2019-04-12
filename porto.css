@@ -23,7 +23,7 @@ h1 {
 .nav {
     font-family: verdana;
     font-weight: bold;
-    height: 90px;
+    height: 30px;
     margin: 5px 0;
     float: left;
     display: inline-block;
@@ -31,8 +31,9 @@ h1 {
     line-height: 90px;
     text-align: center;
     transition: 300ms;
-    font-size: x-large;
+    font-size: large;
     margin-left:50px;
+    width: 70px;
 }
 
 a.active,
