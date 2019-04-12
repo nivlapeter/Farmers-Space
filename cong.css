@@ -1,0 +1,35 @@
+body{
+    background: url(ba.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    color:yellow;
+    font-family:  Tahoma, Geneva,sans-serif;
+    font-style: italic;
+    font-size: larger;
+    margin-left: 30px;
+}
+.cong{
+    background: rgba(71, 48, 44, 0.904);
+    padding: 40px;
+    height: 240px;
+    margin-left: 150px;
+    margin: 0 auto;
+    margin-top: 80px;
+    width: 500px;
+    color: antiquewhite;
+    border-radius: 50px;
+}
+h2{
+    margin-top: 50px;
+    margin: 10px;
+}
+a {
+    color: greenyellow;
+    text-decoration: blink;
+}
+
+a:hover {
+    color: rgb(20, 176, 238);
+}
